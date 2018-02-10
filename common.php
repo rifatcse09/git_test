@@ -1,1 +1,1 @@
-<?php echo _('common test');?>
+<?php echo _('common testt');?>
