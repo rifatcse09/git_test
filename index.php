@@ -1,3 +1,1 @@
-<?php echo 'hi how are you!'
-echo 'coomit changfe';
-;?>
+<?php echo 'hi how are you!';?>
